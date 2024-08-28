@@ -2,5 +2,5 @@
 Data analysis using foundational models
 
 ## Frontend
-![Frontend](images/image.png)
+![Alt Text](images/image.png)
 
