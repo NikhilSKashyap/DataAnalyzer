@@ -2,7 +2,7 @@ import google.generativeai as genai
 import sys
 import re
 
-GOOGLE_API_KEY = "AIzaSyBPECzTHf4puygABmCZF6H91ZP-yU3nD8g"  # Replace with your actual Gemini API key
+GOOGLE_API_KEY = ""  # Replace with your actual Gemini API key
 
 # Configure Gemini with the API key
 genai.configure(api_key=GOOGLE_API_KEY)
@@ -25,7 +25,7 @@ For each query:
 3. If the data is available:
    - Connect to the MongoDB database.
       from pymongo import MongoClient
-      client = MongoClient("mongodb+srv://nkash:g3fWLeuje4TLnLpG@cluster0.ayufk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+      client = MongoClient("mongodb+srv://{name}:{password}@cluster0.ayufk.mongodb.net/?retryWrites=true&w=majority&appName={cluster}")
       db = client['netflix_db']
       collection = db['netflix_data']
    - Directly execute the query to fetch the relevant data from the `netflix_data` collection.
