@@ -10,3 +10,6 @@ Data analysis using foundational models
 * APIs - GraphQL, Springboot
 * Programming languages - Python, JavaScript, Java
 * Database - MongoDB Atlas
+
+## Dataset
+[Netflix Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
