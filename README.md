@@ -4,6 +4,8 @@ Data analysis using foundational models
 ## Frontend
 ![Alt text](images/image.png)
 
+![Alt text](images/image1.png)
+
 ## Tech Stack
 * Foundational Model - Google Gemini
 * Frontend - React
