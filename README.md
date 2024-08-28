@@ -5,8 +5,8 @@ Data analysis using foundational models
 ![Alt text](images/image.png)
 
 ## Tech Stack
-Foundational Model - Gemini
-Frontend - React
-APIs - GraphQL, Springboot
-Programming languages - Python, JavaScript, Java
-Database - MongoDB Atlas
+* Foundational Model - Gemini
+* Frontend - React
+* APIs - GraphQL, Springboot
+* Programming languages - Python, JavaScript, Java
+* Database - MongoDB Atlas
